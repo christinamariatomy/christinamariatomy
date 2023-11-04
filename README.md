@@ -14,7 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=christinamariatomy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=christinamariatomy&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 
