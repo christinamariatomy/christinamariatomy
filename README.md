@@ -2,7 +2,7 @@
 <h3 align="left">I'm a UI & UX Designer with a strong passion for continuous learning and improvement.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Qimi HR.<br>👯 I’m looking to collaborate on UI & UX for projects.<br>🌱 I’m currently learning Full stack dev.<br>⚡ Fun fact - I am also a mixed-media artist. <br> Email ID - christinamariatomy@gmail.com
+🔭 I’m currently working on Qimi HR.<br>👯 I’m looking to collaborate on UI & UX for projects.<br>🌱 I’m currently learning Full stack dev.<br>⚡ Fun fact - I am also a mixed-media artist. <br> 📧 Email ID - christinamariatomy@gmail.com
 
 
 ## 🌐 Socials:
